@@ -25,3 +25,4 @@ https://www.telekom.com/en
 https://3.basecamp.com
 https://finefriends.social/security/
 https://www.vodafone.com/report-a-vulnerability
+https://linkiti.com/page/responsible-disclosure
