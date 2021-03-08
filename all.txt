@@ -27,3 +27,4 @@ https://finefriends.social/security/
 https://www.vodafone.com/report-a-vulnerability
 https://linkiti.com/page/responsible-disclosure
 https://foursquare.com/about/security
+https://detectify.com/responsible_disclosure/hall_of_fame
