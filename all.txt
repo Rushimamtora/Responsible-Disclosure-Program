@@ -33,3 +33,4 @@ https://www.elektralabs.com/security
 https://moviexchange.com/responsible-disclosure-policy/
 https://www.mmc.nl/responsible-disclosure-hall-fame/
 https://docs.rollbar.com/docs/responsible-disclosure-policy
+https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure.html
