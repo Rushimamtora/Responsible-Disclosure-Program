@@ -32,3 +32,4 @@ https://www.telekom.com/en/corporate-responsibility/data-protection-data-securit
 https://www.elektralabs.com/security
 https://moviexchange.com/responsible-disclosure-policy/
 https://www.mmc.nl/responsible-disclosure-hall-fame/
+https://docs.rollbar.com/docs/responsible-disclosure-policy
