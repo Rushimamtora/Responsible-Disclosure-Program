@@ -35,3 +35,4 @@ https://www.mmc.nl/responsible-disclosure-hall-fame/
 https://docs.rollbar.com/docs/responsible-disclosure-policy
 https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure.html
 https://www.visma.com/trust-centre/smb/security-and-privacy/operational/responsible-disclosure/hall-of-fame/
+https://transloadit.com/security/
