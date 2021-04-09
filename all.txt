@@ -37,4 +37,4 @@ https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure.html
 https://www.visma.com/trust-centre/smb/security-and-privacy/operational/responsible-disclosure/hall-of-fame/
 https://transloadit.com/security/
 https://www.swivle.com/security
-https://worldline.com/en/home/responsible-disclosure-program/hall-of-fame.html
+
