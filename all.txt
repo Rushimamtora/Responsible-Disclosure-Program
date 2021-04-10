@@ -40,3 +40,4 @@ https://www.swivle.com/security
 https://www.ourfabriq.com/responsible-disclosure-policy
 https://security.duke.edu/policies/responsible-disclosure
 https://www.fast.co/responsible-disclosure-policy
+https://www.achmea.nl/responsibledisclosure/hall-of-fame
