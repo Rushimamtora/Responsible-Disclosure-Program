@@ -38,3 +38,4 @@ https://www.visma.com/trust-centre/smb/security-and-privacy/operational/responsi
 https://transloadit.com/security/
 https://www.swivle.com/security
 https://www.ourfabriq.com/responsible-disclosure-policy
+https://security.duke.edu/policies/responsible-disclosure
