@@ -41,3 +41,4 @@ https://www.ourfabriq.com/responsible-disclosure-policy
 https://security.duke.edu/policies/responsible-disclosure
 https://www.fast.co/responsible-disclosure-policy
 https://www.achmea.nl/responsibledisclosure/hall-of-fame
+https://support.simplisafe.com/hc/en-us/articles/360040090812-How-do-I-report-a-possible-security-issue-in-the-system-
