@@ -43,3 +43,4 @@ https://www.fast.co/responsible-disclosure-policy
 https://www.achmea.nl/responsibledisclosure/hall-of-fame
 https://support.simplisafe.com/hc/en-us/articles/360040090812-How-do-I-report-a-possible-security-issue-in-the-system-
 https://www.vrt.be/nl/info/responsible-disclosure-policy/responsible-disclosure-hall-of-fame/
+https://www.fastly.com/
